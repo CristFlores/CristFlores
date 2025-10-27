@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Cristian Flores, a data scientist with more than 8 years of work experience developing Machine Learning projects and 3 years in software development.
-- 👀 I am interested in learning more about Artificial Intelligence and being able to apply it to solve real life problems. I'm also a big fan of the anime, play tennis 
-- and dancing salsa.
-- 🌱 I’m currently learning about best practices of Object-oriented programming and how to use it in my own data science projects.  
-- 💞️ I’m looking to collaborate on AI projects
+- 👋 Hi, I’m Cristian Flores, Lead ML Engineer with 8+ years building high-impact production Machine Learning systems.
+- 👨‍🎓 Specialized in designing and implementing end-to-end pipelines, scalable MLOps architectures, and ML platforms that deliver measurable business value.
+- 👀 Seeking to lead ML/AI projects where I can contribute strategic vision, technical expertise, and mentorship.
 - 📫 How to reach me
 -   Email: carmando.fa05@gmail.com
 
